@@ -4,7 +4,7 @@ using namespace std;
 /*
 important note 
 the cin.ignore( ) // ignore the newline 
-if you dont write this will not take input of string below */
+if you dont write this will not take  input of string below */
 int main(){
     int n;
     cin>>n;
