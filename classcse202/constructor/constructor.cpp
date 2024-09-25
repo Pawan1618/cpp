@@ -18,3 +18,9 @@ int main(){
 
     return 0;
 }
+// constrctr is executed auto whenever obj is created 
+//no return type of cons
+// we can declare more than one  const 
+// they differ in their parameter 
+// if you dont provide const compiler will n generate default const
+// except no  param and a empty body 
